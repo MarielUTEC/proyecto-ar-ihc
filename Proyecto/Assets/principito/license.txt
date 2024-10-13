@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Chibi Prince
+* source:	https://sketchfab.com/3d-models/the-chibi-prince-ae60394446354a8abf2ab69d90260de5
+* author:	bingko (https://sketchfab.com/bingko)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Chibi Prince" (https://sketchfab.com/3d-models/the-chibi-prince-ae60394446354a8abf2ab69d90260de5) by bingko (https://sketchfab.com/bingko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

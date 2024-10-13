@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="sistemasolarportada" size="14.000000 18.970190" />
+    <ImageTarget name="laliebreylatortugaportada" size="10.000000 13.133208" />
+    <ImageTarget name="miprimerprincipitoportada" size="15.000000 20.100502" />
+  </Tracking>
+</QCARConfig>
