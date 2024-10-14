@@ -7,4 +7,4 @@ ARtura, es una innovadora herramienta de realidad aumentada diseñada para fomen
 - [Mariel Carolina Tovar Tolentino](https://github.com/MarielUTEC)
 
 
-<img src="artura.jpg" alt="rotations" width="400" height="300">
+<img src="artura.jpg" alt="rotations">
