@@ -6,7 +6,7 @@ using Vuforia;
 public class TargetDetectionHandler : MonoBehaviour
 {
     public GameObject imagen;
-    public AudioSource audio;
+    public AudioSource audioS;
     private void Start()
     {
         var observerBehaviour = GetComponent<ObserverBehaviour>();
@@ -22,9 +22,19 @@ public class TargetDetectionHandler : MonoBehaviour
         if (targetStatus.Status == Status.TRACKED || targetStatus.Status == Status.EXTENDED_TRACKED)
         {
             imagen.SetActive(false);
-            audio.Play();
+            if (!audioS.isPlaying)
+            {
+                audioS.Play();
+            }
 
             behaviour.OnTargetStatusChanged -= OnTargetStatusChanged;
+        }
+        else
+        {
+            if (audioS.isPlaying)
+            {
+                audioS.Stop();
+            }
         }
     }
 }

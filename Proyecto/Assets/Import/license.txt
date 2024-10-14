@@ -1,0 +1,11 @@
+Model Information:
+* title:	Various Planets
+* source:	https://sketchfab.com/3d-models/various-planets-73c6c24e7c40409cafc6adacd5d71ff5
+* author:	feivelyn (https://sketchfab.com/feivelyn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Various Planets" (https://sketchfab.com/3d-models/various-planets-73c6c24e7c40409cafc6adacd5d71ff5) by feivelyn (https://sketchfab.com/feivelyn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
